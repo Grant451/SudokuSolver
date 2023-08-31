@@ -1,0 +1,10 @@
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\bin\Debug\MagicSquares.exe.config
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\bin\Debug\MagicSquares.exe
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\bin\Debug\MagicSquares.pdb
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.csproj.AssemblyReference.cache
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.UserInterface.resources
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.Properties.Resources.resources
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.csproj.GenerateResource.cache
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.csproj.CoreCompileInputs.cache
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.exe
+C:\Users\Grant Clothier\Source\Repos\homework-1-assignment-Grant451\MagicSquares\obj\Debug\MagicSquares.pdb
